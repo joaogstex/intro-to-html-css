@@ -1,0 +1,189 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tahoma-font{
+font-family: Tahoma;
+font-weight: bold;
+margin-bottom: 50px;
+}
+
+.course{
+font-family: Verdana;
+font-weight: bold;
+margin-bottom: 6px;
+}
+
+.beginner{  
+font-family: Verdana;
+color: rgb(96, 96, 96);
+font-size: 14px;
+margin-bottom: 20px;
+}
+
+.course-description{
+font-family: Verdana;
+font-size: 14.5px;
+width: 280px;
+margin-bottom: 20px;
+}
+
+.start-button{
+font-family: Verdana;
+background-color: rgb(33, 134, 33);
+color: white;
+text-align: center;
+font-size: 14px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 8px;
+padding-right: 8px;
+border-color: rgb(33, 134, 33);
+border-width: 1px;
+border-style: solid;
+border-radius: 6px;
+margin-bottom: 50px;
+}
+
+.deal{
+font-family: Arial;
+font-weight: bold;
+font-size: 25px;
+margin-bottom: 5px;
+}
+
+.sale{
+font-family: Arial;
+font-size: 17px;
+color: rgb(255, 0, 0);
+margin-bottom: 50px;
+}
+
+.shopping{
+font-family: Arial;
+font-weight: bold;
+font-size: 25px;
+margin-bottom: 12px;
+text-align: center;
+}
+
+.apple-description{
+font-family: Arial;
+font-size: 14.5px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+.learn-more{
+font-family: Arial;
+color: rgb(11, 82, 163);
+font-size: 14.5px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+.new{
+font-family: Arial;
+color: rgb(255, 123, 0);
+font-size: 12px;
+font-weight: bold;
+text-align: center;
+margin-bottom: 8px;
+}
+
+.macbook{
+font-family: Arial;
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+margin-bottom: 8px;
+}
+
+.supercharged{
+font-family: Arial;
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+margin-bottom: 8px;
+}
+
+.price{
+font-family: Arial;
+font-size: 14px;
+color: rgb(83, 79, 79);
+text-align: center;
+margin-bottom: 20px;
+}
+
+.buy-button{
+margin-left: 610px;
+background-color: rgb(0, 108, 197);
+font-family: Arial;
+font-weight: bold;
+font-size: 15px;
+color: white;
+border-radius: 18px;
+border-color: rgb(0, 108, 197);
+border-style: solid;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+margin-bottom: 50px;
+}
+
+.freecodecamp{
+font-family: Arial;
+font-size: 15px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.profile{
+color: rgb(96, 96, 96);
+font-weight: normal;
+}
+
+.webdev-description{
+font-family: Arial;
+font-size: 15px;
+width: 500px;
+margin-bottom: 20px;
+}
+
+.chp-description{
+font-family: Arial;
+font-size: 15px;
+margin-bottom: 50px;
+}
+
+.chp{
+color: rgb(0, 162, 255);
+}
+
+.dolar-price{
+font-family: Arial;
+font-size: 30px;
+margin-bottom: 10px;
+}
+
+.dolar{
+color: rgb(96, 96, 96);
+font-size: 16px;
+}
+
+.today-price{
+font-family: Arial;
+color: rgb(15, 107, 15);
+margin-bottom: 10px;
+}
+
+.price-hours{
+font-family: Arial;
+color: rgb(96, 96, 96);
+}
+
+.percentage-hours{
+color: red;
+}
